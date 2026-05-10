@@ -1,0 +1,11 @@
+.dashboard-container{
+    display:flex;
+    position:absolute;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+}
+h1.app-name{
+    margin-left:16px;
+}

@@ -1,0 +1,4 @@
+.alinear { text-align: center; margin-top: 20px; }
+.formulario { display: flex; gap: 12px; align-items: center; flex-wrap: wrap; margin-bottom: 20px; }
+.busqueda { width: 100%; max-width: 360px; }
+table { width: 100%; }
